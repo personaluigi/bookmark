@@ -72,6 +72,7 @@
     .section-features {
         margin: 4rem 0;
         padding: 10px;
+        height: auto;
 
         h2 {
             font-size: 2.2rem;
@@ -89,6 +90,7 @@
 
         .select-feature {
             margin: 2rem 0;
+            height: auto;
 
             .feature-box {
                 width: 80%;
@@ -108,7 +110,7 @@
         }
 
         .container-features {
-
+            height: auto;
             .feature-box {
                 width: 100%;
 
@@ -209,6 +211,7 @@
     .section-accordion {
         padding: 10px;
         margin: 2rem 0;
+        height: auto;
 
         h2 {
             font-size: 2.1rem;
